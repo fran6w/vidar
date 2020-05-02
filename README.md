@@ -1,2 +1,3 @@
-# vidar
-VIDAR - VIsualization of Diseases At Risk (for COVID-19)
+# VIDAR-19
+VIDAR-19 - Visualization of Diseases At Risk in CORD-19
+
