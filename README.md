@@ -25,16 +25,15 @@ It shows also 2 treemap graphics which compare by branch (or sub-branch) the occ
 This tab highlights the diseases, or the branches, for which the document frequency for risk factors is higher than the one for diseases in the corpus.
 
 ##### Search Documents
-
 This tab enables to search for documents which contain a disease or a branch. Then it is possible to view the document source.
 
 ##### Search Variants
 
-This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, N501Y, P681H. Then it is possible to view the document source.
+This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, L452R, N439K, N501Y, P681H, S477N, V367F, Y453F. Then it is possible to view the document source.
 
 ##### CORD-19
 
-This tab presents the CORD-19 documents dataset. It gives some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor?
+This tab presents the CORD-19 documents dataset. It provides some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor? This tab enables also to select documents dealing with COVID-19 (virus or disease) and also Vaccines.
 
 ##### ICD-11
 
