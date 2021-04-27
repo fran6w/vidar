@@ -2,7 +2,11 @@
 
 ![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
-Online dash board available at: https://vidar-19.yotta-conseil.fr/
+Online dashboard available at: https://vidar-19.yotta-conseil.fr/
+
+Paper "Visualization of Diseases at Risk in the COVID-19 Literature" on arXiv is available at: https://arxiv.org/abs/2005.00848
+
+Video poster from SciNLP 2020 is available at: https://youtu.be/8zug2s7yfUo
 
 ##### Introduction
 
