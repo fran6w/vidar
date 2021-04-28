@@ -33,7 +33,7 @@ This tab enables to search for documents which contain a disease or a branch. Th
 
 ##### Search Variants
 
-This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, L452R, N439K, N501Y, P681H, S477N, V367F, Y453F. Then it is possible to view the document source.
+This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, L452R, N439K, N501Y, P681H, P681R, S477N, V367F, Y453F. Then it is possible to view the document source.
 
 ##### CORD-19
 
