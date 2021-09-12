@@ -1,12 +1,24 @@
-# VIDAR-19 - Visualization of Diseases At Risk in CORD-19
+# VIDAR-19 - Visualization of COVID-19 Risk Factors and Vaccine Side Effects
 
 ![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
 Online dashboard available at: https://vidar-19.yotta-conseil.fr/
 
-Paper "Visualization of Diseases at Risk in the COVID-19 Literature" on arXiv is available at: https://arxiv.org/abs/2005.00848
+**References**
 
-Video poster from SciNLP 2020 is available at: https://youtu.be/8zug2s7yfUo
+F. Wolinski, Visualization of diseases at risk in the COVID-19 literature, 2020, https://arxiv.org/abs/2005.00848
+
+VIDAR-19 is also showcased in a video poster entitled **Automatic Extractions of Risk Factors from COVID-19 Literature**, and  presented at the SciNLP 2020 workshop: https://youtu.be/8zug2s7yfUo
+
+VIDAR-19 will be presented at the SciNLP 2021 workshop: https://scinlp.org
+
+**Known citations**
+
+- *C. K. Leung, Y. Chen, C. S. H. Hoi, S. Shang, Y. Wen and A. Cuzzocrea*,  **Big Data Visualization and Visual Analytics of COVID-19 Data**, *2020 24th International Conference Information Visualisation (IV)*, Sept 2020, pp. 415-420, doi: 10.1109/IV51561.2020.00073
+- *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021,  https://arxiv.org/abs/2007.00576
+- *David Oniani, Guoqian Jiang, Hongfang Liu, Feichen Shen*, **Constructing  co-occurrence network embeddings to assist association extraction for  COVID-19 and other coronavirus infectious diseases,** *Journal of the American Medical Informatics Association*, Volume 27, Issue 8, August 2020, Pages 1259–1267, https://doi.org/10.1093/jamia/ocaa117 
+- *J. Zhao, M. A. Rodriguez and R. Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309, doi: 10.1109/UCC48980.2020.00048
+- *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
 
 ##### Introduction
 
@@ -26,22 +38,23 @@ It shows also 2 treemap graphics which compare by branch (or sub-branch) the occ
 
 ##### Document Frequency
 
-This tab highlights the diseases, or the branches, for which the document frequency for risk factors is higher than the one for diseases in the corpus.
+This tab highlights the diseases for which the document frequency for risk factors, or side effects, is higher than the one for diseases in the corpus.
 
 ##### Search Documents
+
 This tab enables to search for documents which contain a disease or a branch. Then it is possible to view the document source.
 
 ##### Search Variants
 
-This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, L452R, N439K, N501Y, P681H, P681R, S477N, V367F, Y453F. Then it is possible to view the document source.
+This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, E484Q, K417N, L452R, N439K, N501Y, P681H, P681R, S477N, V367F, Y453F. Then it is possible to view the document source.
 
 ##### CORD-19
 
-This tab presents the CORD-19 documents dataset. It provides some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor? This tab enables also to select documents dealing with COVID-19 (virus or disease) and also Vaccines.
+This tab presents the CORD-19 documents dataset. It gives some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor, or a side effect?
 
 ##### ICD-11
 
-This tab presents the ICD-11 documents dataset, i.e. the International Classification of Diseases from the World Health Organization. It gives some insights into the diseases which have been extracted: How many diseases in the database? How many diseases mentioned in the corpus? How many diseases which might be considered as risk factors?
+This tab presents the ICD-11 documents dataset, i.e. the International Classification of Diseases from the World Health Organization. It gives some insights into the diseases which have been extracted: How many diseases in the database? How many diseases mentioned in the corpus? How many diseases which might be considered as risk factors, or side effects?
 
 ##### Updates
 
@@ -54,3 +67,4 @@ The **VIDAR-19** project has been implemented in Python. The graphical part of t
 ##### About the name VIDAR
 
 **VIDAR** sounds like *radar* or *sonar*. **Vi&#240;arr** is also the name of a god in Norse mythology.
+
