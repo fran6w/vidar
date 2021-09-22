@@ -1,24 +1,24 @@
-# VIDAR-19 - Visualization of COVID-19 Risk Factors and Vaccine Side Effects
+# VIDAR-19 - Visualization of Covid-19 Risk Factors and Vaccine Side Effects
 
 ![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
-Online dashboard available at: https://vidar-19.yotta-conseil.fr/
+The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
 
 **References**
 
-F. Wolinski, Visualization of diseases at risk in the COVID-19 literature, 2020, https://arxiv.org/abs/2005.00848
+F. Wolinski, **Visualization of Diseases at Risk in the COVID-19 Literature**, arXiv, May 2020, https://arxiv.org/abs/2005.00848
 
-VIDAR-19 is also showcased in a video poster entitled **Automatic Extractions of Risk Factors from COVID-19 Literature**, and  presented at the SciNLP 2020 workshop: https://youtu.be/8zug2s7yfUo
+F. Wolinski, **Automatic Extractions of Risk Factors from COVID-19 Literature**, 1st SciNLP: Natural Language Processing and Data Mining for Scientific Text, June 2020,  [[poster abstract](https://scinlp.org/history/2020/pdfs/automatic-extraction-of-risk-factors-from-covid-19-literature.pdf)], presented at the SciNLP 2020 workshop: [[poster video](https://youtu.be/8zug2s7yfUo)]
 
-VIDAR-19 will be presented at the SciNLP 2021 workshop: https://scinlp.org
+VIDAR-19 will be presented at the SciNLP 2021 workshop: https://scinlp.org, October 2021
 
 **Known citations**
 
 - *C. K. Leung, Y. Chen, C. S. H. Hoi, S. Shang, Y. Wen and A. Cuzzocrea*,  **Big Data Visualization and Visual Analytics of COVID-19 Data**, *2020 24th International Conference Information Visualisation (IV)*, Sept 2020, pp. 415-420, doi: 10.1109/IV51561.2020.00073
-- *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021,  https://arxiv.org/abs/2007.00576
 - *David Oniani, Guoqian Jiang, Hongfang Liu, Feichen Shen*, **Constructing  co-occurrence network embeddings to assist association extraction for  COVID-19 and other coronavirus infectious diseases,** *Journal of the American Medical Informatics Association*, Volume 27, Issue 8, August 2020, Pages 1259–1267, https://doi.org/10.1093/jamia/ocaa117 
 - *J. Zhao, M. A. Rodriguez and R. Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309, doi: 10.1109/UCC48980.2020.00048
 - *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
+- *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021,  https://arxiv.org/abs/2007.00576
 
 ##### Introduction
 
@@ -27,6 +27,8 @@ With the COVID-19 disease, risk factors and co-morbidities are at stakes. Patien
 The fact is that risk factors and co-morbidities reports are spread in many publications which does not provide a global view with actionable information.
 
 To cope with this problem, we developed a project, named **VIDAR-19** (**VI**sualization of **D**iseases **A**t **R**isk in CORD-**19**), able to extract automatically diseases from the ICD-11 in the coronavirus literature, and also diseases which might be considered as risk factors or co-morbidities.
+
+In 2021, this dashboard has been extended with Vaccine side effects.
 
 This dashboard shows the outcome of the project. We present briefly below the different tabs of this dashboard.
 
@@ -42,7 +44,7 @@ This tab highlights the diseases for which the document frequency for risk facto
 
 ##### Search Documents
 
-This tab enables to search for documents which contain a disease or a branch. Then it is possible to view the document source.
+This tab enables to search for documents which contain a disease or a branch, possibly as a risk factor or a side effect. Then it is possible to view the document source.
 
 ##### Search Variants
 
