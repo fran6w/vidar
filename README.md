@@ -16,6 +16,7 @@ VIDAR-19 will be presented at the SciNLP 2021 workshop: https://scinlp.org, Octo
 
 - *C. K. Leung, Y. Chen, C. S. H. Hoi, S. Shang, Y. Wen and A. Cuzzocrea*,  **Big Data Visualization and Visual Analytics of COVID-19 Data**, *2020 24th International Conference Information Visualisation (IV)*, Sept 2020, pp. 415-420, doi: 10.1109/IV51561.2020.00073
 - *David Oniani, Guoqian Jiang, Hongfang Liu, Feichen Shen*, **Constructing  co-occurrence network embeddings to assist association extraction for  COVID-19 and other coronavirus infectious diseases,** *Journal of the American Medical Informatics Association*, Volume 27, Issue 8, August 2020, Pages 1259–1267, https://doi.org/10.1093/jamia/ocaa117 
+- D. Kershaw, R. Koeling, **Elsevier OA CC-By Corpus**, arXiv, Sep 2020, https://arxiv.org/abs/2008.00774
 - *J. Zhao, M. A. Rodriguez and R. Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309, doi: 10.1109/UCC48980.2020.00048
 - *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
 - *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021,  https://arxiv.org/abs/2007.00576
@@ -60,7 +61,7 @@ This tab presents the ICD-11 documents dataset, i.e. the International Classific
 
 ##### Updates
 
-The dashboard is updated on a weekly to monthly frequency by including new documents from CORD-19.
+The dashboard is updated on a weekly to monthly frequency by including new documents from CORD-19 from *Semantic Scholar* web site: https://www.semanticscholar.org/cord19.
 
 ##### About this dashboard
 
