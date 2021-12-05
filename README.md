@@ -22,10 +22,10 @@ It shows also 2 treemap graphics which compare by branch (or sub-branch) the occ
 
 This tab highlights the diseases, or the branches, for which the document frequency for risk factors is higher than the one for diseases in the corpus.
 
-- [Document frequency of risk factors / COVID-19](covid-19_risk_factors.md)
-- [Document frequency of side effects / Vaccines](vaccines_side_effects.md)
+- [Document frequency of risk factors / COVID-19](covid-19-risk-factors.md)
+- [Document frequency of side effects / Vaccines](vaccines-side-effects.md)
 
-- [Document frequency of risk factors / Extra doses](extra_dose_side_effects.md)
+- [Document frequency of risk factors / Extra doses](extra-dose-side-effects.md)
 
 ## 4. Search Documents
 This tab enables to search for documents which contain a disease or a branch. Then it is possible to view the document source.
