@@ -12,6 +12,8 @@ To cope with this problem, we developed a project, named **VIDAR-19** (**VI**sua
 
 This dashboard shows the outcome of the project. We present briefly below the different tabs of this dashboard.
 
+The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
+
 ## 2. Disease Maps
 
 This tab shows the share of branches in 3 sets of diseases: diseases with a code in ICD-11, diseases found in the corpus and diseases which might be considered as risk factors.
@@ -53,8 +55,6 @@ The **VIDAR-19** project has been implemented in Python. The graphical part of t
 ## 10. About the name VIDAR
 
 **VIDAR** sounds like *radar* or *sonar*. **Vi&#240;arr** is also the name of a god in Norse mythology.
-
-The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
 
 ## 11. References
 
