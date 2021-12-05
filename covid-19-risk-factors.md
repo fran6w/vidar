@@ -4,7 +4,7 @@
 
 ## Document Frequency
 
-![document frequency](./covid-19_risk_factors.png)
+![document frequency](./covid-19-risk-factors.png)
 
 ### Table
 

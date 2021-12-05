@@ -1,10 +1,10 @@
-# Vaccine Side Effects
+# Extra Dose Side Effects
 
 ![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
 ## Document Frequency
 
-![document frequency](./extra_dose_side_effects.png)
+![document frequency](./extra-dose-side-effects.png)
 
 ### Table
 
