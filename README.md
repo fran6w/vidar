@@ -25,7 +25,7 @@ It shows also 2 treemap graphics which compare by branch (or sub-branch) the occ
 This tab highlights the diseases, or the branches, for which the document frequency for risk factors is higher than the one for diseases in the corpus.
 
 - [Document frequency of COVID-19 risk factors](covid-19-risk-factors.md)
-- [Document frequency of vaccine side effects](vaccines-side-effects.md)
+- [Document frequency of vaccines side effects](vaccines-side-effects.md)
 
 - [Document frequency of extra dose side effects](extra-dose-side-effects.md)
 
@@ -34,7 +34,7 @@ This tab enables to search for documents which contain a disease or a branch. Th
 
 ## 5. Search Variants
 
-This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, K417N, L452R, N439K, N501Y, P681H, S477N, V367F, Y453F. Then it is possible to view the document source.
+This tab enables to search for documents which contain a variant. A short list is available: D614G, E484K, E484Q, K417N, L452R, N439K, N501Y, P681H, P681R, R346K, S477N, V367F, Y453F. Then it is possible to view the document source.
 
 ## 6. CORD-19
 
