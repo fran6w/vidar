@@ -4,15 +4,13 @@
 
 ## 1. Introduction
 
-With the COVID-19 disease, risk factors and co-morbidities are at stakes. Patients presenting such risks should indeed receive specific attentions and cares.
+With the COVID-19 disease, risk factors and co-morbidities are at stakes. Patients presenting such risks should indeed receive specific attentions and cares. The fact is that risk factors and co-morbidities reports are spread in many publications which does not provide a global view with actionable information.
 
-The fact is that risk factors and co-morbidities reports are spread in many publications which does not provide a global view with actionable information.
+In 2020, to cope with this problem, we developed a project, named **VIDAR-19** (**VI**sualization of **D**iseases **A**t **R**isk in CORD-**19**), able to extract automatically diseases from the ICD-11 in the coronavirus literature, and also diseases which might be considered as risk factors or co-morbidities.
 
-To cope with this problem, we developed a project, named **VIDAR-19** (**VI**sualization of **D**iseases **A**t **R**isk in CORD-**19**), able to extract automatically diseases from the ICD-11 in the coronavirus literature, and also diseases which might be considered as risk factors or co-morbidities.
+In 2021, with the extraordinary worldwide efforts to provide a medical care for this new disease, the emphasis was on side effects of such rapidly designed vaccines. To cope with this new challenge, we extended **VIDAR-19** so as to also extract vaccine side effects by using the techniques already used and developed for risk factors
 
-This dashboard shows the outcome of the project. We present briefly below the different tabs of this dashboard.
-
-The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
+This dashboard shows the outcome of the project. We present briefly below the different tabs. The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
 
 ## 2. Disease Maps
 
@@ -22,7 +20,7 @@ It shows also 2 treemap graphics which compare by branch (or sub-branch) the occ
 
 ## 3. Document Frequency
 
-This tab highlights the diseases, or the branches, for which the document frequency for risk factors is higher than the one for diseases in the corpus.
+This tab highlights the diseases, or the branches, for which the document frequency for risk factors, or side effects, is higher than the one for diseases in the corpus.
 
 - [Document frequency of COVID-19 risk factors](covid-19-risk-factors.md)
 - [Document frequency of vaccines side effects](vaccines-side-effects.md)
@@ -36,7 +34,7 @@ This tab enables to search for documents which contain a variant. A short list i
 
 ## 6. CORD-19
 
-This tab presents the CORD-19 documents dataset. It provides some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor? This tab enables also to select documents dealing with COVID-19 (virus or disease), also Vaccines and Extra dose (extra, booster, third...).
+This tab presents the CORD-19 documents dataset. It provides some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor, or as a side effect? This tab enables also to select documents dealing with COVID-19 (virus or disease) or Vaccines.
 
 ## 7. ICD-11
 
@@ -44,7 +42,7 @@ This tab presents the ICD-11 documents dataset, i.e. the International Classific
 
 ## 8. Updates
 
-The dashboard is updated on a weekly to monthly frequency by including new documents from CORD-19.
+As the final release of the CORD-19 dataset is scheduled for June 2, 2022. They won't be any update of the dashboard after this last release.
 
 ## 9. About this dashboard
 
@@ -69,4 +67,5 @@ F. Wolinski, **Systematic Extraction of Covid-19 Risk Factors and Vaccine Side E
 - D. Kershaw, R. Koeling, **Elsevier OA CC-By Corpus**, arXiv, September 2020, https://arxiv.org/abs/2008.00774
 - *J. Zhao, M. A. Rodriguez and R. Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309,  https://doi.org/10.1109/UCC48980.2020.00048
 - *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
-- *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021,  https://arxiv.org/abs/2007.00576
+- *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021, https://arxiv.org/abs/2007.00576
+- *Houcemeddine Turki, Mohamed Ali Hadj Taieb, Alejandro Piad-Morffis, Mohamed Ben Aouicha, René Fabrice Bile*, **Data Models for Annotating Biomedical Scholarly Publications: the Case of CORD-19**, *2nd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment*, April 2022, https://www2022.thewebconf.org/PaperFiles/130.pdf
