@@ -27,8 +27,6 @@ This tab highlights the diseases, or the branches, for which the document freque
 - [Document frequency of COVID-19 risk factors](covid-19-risk-factors.md)
 - [Document frequency of vaccines side effects](vaccines-side-effects.md)
 
-- [Document frequency of extra dose side effects](extra-dose-side-effects.md)
-
 ## 4. Search Documents
 This tab enables to search for documents which contain a disease or a branch. Then it is possible to view the document source.
 
