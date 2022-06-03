@@ -1,6 +1,6 @@
 # VIDAR-19 - Visualization of Covid-19 Risk Factors and Vaccine Side Effects
 
-![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
+![VIDAR-19](https://vidar19.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
 ## 1. Introduction
 
@@ -69,3 +69,4 @@ F. Wolinski, **Systematic Extraction of Covid-19 Risk Factors and Vaccine Side E
 - *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
 - *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021, https://arxiv.org/abs/2007.00576
 - *Houcemeddine Turki, Mohamed Ali Hadj Taieb, Alejandro Piad-Morffis, Mohamed Ben Aouicha, René Fabrice Bile*, **Data Models for Annotating Biomedical Scholarly Publications: the Case of CORD-19**, *2nd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment*, April 2022, https://www2022.thewebconf.org/PaperFiles/130.pdf
+- *Adil Bahaj, Safae Lhazmir, Mounir Ghogho, Houda Benbrahim*, **Covid19-related Scientific Literature Exploration: Short Survey and Comparative Study**, Preprint, April 2022, https://www.preprints.org/manuscript/202205.0004/v1
