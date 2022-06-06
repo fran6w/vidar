@@ -34,15 +34,27 @@ This tab enables to search for documents which contain a variant. A short list i
 
 ## 6. CORD-19
 
+CORD-19 is a corpus of academic papers about COVID-19 and related coronavirus  research.  It has been curated and maintained by the [Semantic Scholar](https://www.semanticscholar.org/) team at  the [Allen Institute for AI](https://allenai.org/) to support text mining and NLP research.
+
+Reference:
+
+- *Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Doug Burdick, Darrin Eide, Kathryn Funk, Yannis Katsis, Rodney Kinney, Yunyao Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex Wade, Kuansan Wang, Nancy Xin Ru Wang, Chris Wilhelm, Boya Xie, Douglas Raymond, Daniel S. Weld, Oren Etzioni, Sebastian Kohlmeier*, **CORD-19: The COVID-19 Open Research Dataset**, arxiv, April-July 2020, https://arxiv.org/abs/2004.10706
+
 This tab presents the CORD-19 documents dataset. It provides some insights into the processed documents from the selected datasets: How many documents? How many documents mentioning at least one disease? How many documents mentioning at least one disease which might be considered as a risk factor, or as a side effect? This tab enables also to select documents dealing with COVID-19 (virus or disease) or Vaccines.
 
 ## 7. ICD-11
 
-This tab presents the ICD-11 documents dataset, i.e. the International Classification of Diseases from the World Health Organization. It gives some insights into the diseases which have been extracted: How many diseases in the database? How many diseases mentioned in the corpus? How many diseases which might be considered as risk factors?
+ICD-11 is the International Classification of Diseases from the World Health Organization.
+
+Reference:
+
+- *World Health Organization*, **International Statistical Classification of Diseases and Related Health Problems (11th ed.)**, 2019, https://icd.who.int/
+
+This tab presents the ICD-11 documents dataset. It gives some insights into the diseases which have been extracted: How many diseases in the database? How many diseases mentioned in the corpus? How many diseases which might be considered as risk factors?
 
 ## 8. Updates
 
-As the final release of the CORD-19 dataset is scheduled for June 2, 2022. They won't be any update of the dashboard after this last release.
+As the final release of the CORD-19 dataset has been produced on June 2, 2022. They won't be any update of the dashboard after this last release.
 
 ## 9. About this dashboard
 
@@ -50,22 +62,22 @@ The **VIDAR-19** project has been implemented in Python. The graphical part of t
 
 ## 10. About the name VIDAR
 
-**VIDAR** sounds like *radar* or *sonar*. **Vi&#240;arr** is also the name of a god in Norse mythology.
+**VIDAR** sounds like *radar* or *lidar*. **Vi&#240;arr** is also the name of a god in Norse mythology.
 
-## 11. References
+## 11. Publications of this work
 
-F. Wolinski, **Visualization of Diseases at Risk in the COVID-19 Literature**, arXiv, May 2020, https://arxiv.org/abs/2005.00848
+Francis Wolinski, **Visualization of Diseases at Risk in the COVID-19 Literature**, arXiv, May 2020, https://arxiv.org/abs/2005.00848
 
-F. Wolinski, **Automatic Extractions of Risk Factors from COVID-19 Literature**, 1st SciNLP: Natural Language Processing and Data Mining for Scientific Text, June 2020,  [[poster abstract](https://scinlp.org/history/2020/pdfs/automatic-extraction-of-risk-factors-from-covid-19-literature.pdf)], presented at the SciNLP 2020 workshop hosted at AKBC 2020: [[poster video](https://youtu.be/8zug2s7yfUo)]
+Francis Wolinski, **Automatic Extractions of Risk Factors from COVID-19 Literature**, 1st SciNLP: Natural Language Processing and Data Mining for Scientific Text, June 2020,  [[poster abstract](https://scinlp.org/history/2020/pdfs/automatic-extraction-of-risk-factors-from-covid-19-literature.pdf)], presented at the SciNLP 2020 workshop hosted at AKBC 2020: [[poster video](https://youtu.be/8zug2s7yfUo)]
 
-F. Wolinski, **Systematic Extraction of Covid-19 Risk Factors and Vaccine Side Effects**, 2nd SciNLP: Natural Language Processing and Data Mining for Scientific Text, October 2021,  [[poster abstract](https://drive.google.com/file/d/1leIk3hPjovTZkdppZ7mcUkY9D96rEcF6/view?usp=sharing)], presented at the SciNLP 2021 workshop hosted at AKBC 2021: [[poster video](https://youtu.be/mFpkkN_930k)]
+Francis Wolinski, **Systematic Extraction of Covid-19 Risk Factors and Vaccine Side Effects**, 2nd SciNLP: Natural Language Processing and Data Mining for Scientific Text, October 2021,  [[poster abstract](https://drive.google.com/file/d/1leIk3hPjovTZkdppZ7mcUkY9D96rEcF6/view?usp=sharing)], presented at the SciNLP 2021 workshop hosted at AKBC 2021: [[poster video](https://youtu.be/mFpkkN_930k)]
 
-## 12. Known citations
+## 12. Known citations of this work
 
 - *David Oniani, Guoqian Jiang, Hongfang Liu, Feichen Shen*, **Constructing  co-occurrence network embeddings to assist association extraction for  COVID-19 and other coronavirus infectious diseases,** *Journal of the American Medical Informatics Association*, Volume 27, Issue 8, August 2020, Pages 1259–1267, https://doi.org/10.1093/jamia/ocaa117
-- *C. K. Leung, Y. Chen, C. S. H. Hoi, S. Shang, Y. Wen and A. Cuzzocrea*,  **Big Data Visualization and Visual Analytics of COVID-19 Data**, *2020 24th International Conference Information Visualisation (IV)*, Sept 2020, pp. 415-420, https://doi.org/10.1109/IV51561.2020.00073
-- D. Kershaw, R. Koeling, **Elsevier OA CC-By Corpus**, arXiv, September 2020, https://arxiv.org/abs/2008.00774
-- *J. Zhao, M. A. Rodriguez and R. Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309,  https://doi.org/10.1109/UCC48980.2020.00048
+- *Carson K. Leung, Yubo Chen, Calvin S.H. Hoi, Siyuan Shang, Yan Wen, Alfredo Cuzzocrea*,  **Big Data Visualization and Visual Analytics of COVID-19 Data**, *2020 24th International Conference Information Visualisation (IV)*, Sept 2020, pp. 415-420, https://doi.org/10.1109/IV51561.2020.00073
+- Daniel Kershaw, Rob Koeling, **Elsevier OA CC-By Corpus**, arXiv, September 2020, https://arxiv.org/abs/2008.00774
+- *Jie Zhao, Maria A. Rodriguez, Rajkumar Buyya*, **High-Performance Mining of  COVID-19 Open Research Datasets for Text Classification and Insights in  Cloud Computing Environments**, *2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)*, December 2020, pp. 302-309,  https://doi.org/10.1109/UCC48980.2020.00048
 - *Lucy Lu Wang, Kyle Lo*, **Text mining approaches for dealing with the rapidly expanding literature on COVID-19**, *Briefings in Bioinformatics*, Volume 22, Issue 2, March 2021, Pages 781–799, https://doi.org/10.1093/bib/bbaa296
 - *Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi R. Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed Elsayed, Martha Palmer, Clare Voss, Cynthia Schneider, Boyan Onyshkevych*, **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**, May 2021, https://arxiv.org/abs/2007.00576
 - *Houcemeddine Turki, Mohamed Ali Hadj Taieb, Alejandro Piad-Morffis, Mohamed Ben Aouicha, René Fabrice Bile*, **Data Models for Annotating Biomedical Scholarly Publications: the Case of CORD-19**, *2nd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment*, April 2022, https://www2022.thewebconf.org/PaperFiles/130.pdf

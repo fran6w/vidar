@@ -1,8 +1,8 @@
 # Vaccines Side Effects
 
-As of 3/01/2022, vaccines side effects have been computed on 16K documents dealing with COVID-19 vaccines.
+As of 2/06/2022, vaccines side effects have been computed on 21K documents dealing with COVID-19 vaccines.
 
-![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
+![VIDAR-19](https://vidar19.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
 ## Document Frequency
 

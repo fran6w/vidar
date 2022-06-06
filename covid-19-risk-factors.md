@@ -2,9 +2,9 @@
 
 
 
-As of 3/01/2022, risk factors have been computed on 226K documents dealing with SARS-CoV-2 and COVID-19.
+As of 2/06/2022, risk factors have been computed on 275K documents dealing with SARS-CoV-2 and COVID-19.
 
-![VIDAR-19](https://fran6wol.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
+![VIDAR-19](https://vidar19.eu.pythonanywhere.com/assets/img/vidar_wm2.png)
 
 ## Document Frequency
 
