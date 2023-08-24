@@ -10,7 +10,7 @@ In 2020, to cope with this problem, we developed a project, named **VIDAR-19** (
 
 In 2021, with the extraordinary worldwide efforts to provide a medical care for this new disease, the emphasis was on side effects of such rapidly designed vaccines. To cope with this new challenge, we extended **VIDAR-19** so as to also extract vaccine side effects by using the techniques already used and developed for risk factors
 
-This dashboard shows the outcome of the project. We present briefly below the different tabs. The online dashboard is available at: https://vidar-19.yotta-conseil.fr/
+This dashboard shows the outcome of the project. We present briefly below the different tabs.
 
 ## 2. Disease Maps
 
